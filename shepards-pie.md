@@ -1,4 +1,4 @@
-# Title
+# Shepard's Pie
 
 ## Ingredients
 * 1 package of ground beef
