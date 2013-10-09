@@ -5,5 +5,5 @@
 * item 2
 
 # Directions
-* Mix all the infredients
+* Mix all the ingredients
 * Cook them
