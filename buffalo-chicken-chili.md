@@ -24,3 +24,6 @@ http://www.traceysculinaryadventures.com/2013/10/buffalo-chicken-chili.html
 * Add the chicken broth and scrape the bottom of the pan to release any brown bits.
 * Stir in the hot sauce, tomato sauce, and crushed tomatoes.
 * Bring the mixture to a boil, then reduce the heat and simmer until the veggies are tender and the chili has thickened to your desired consistency.
+
+
+![Buffalo Chicken Chili](http://i.imgur.com/2g7AMSZ.jpg)
