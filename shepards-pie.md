@@ -27,3 +27,7 @@
 * Spoon the meat mixture into the bottom of a baking dish and cover with the potatoes and cheddar cheese
 * Place in a 356 degree preheated oven and cook for 30 minutes
 * Finish by broiling for 2 minutes
+
+
+![Shepard's Pie](http://i.imgur.com/QZObfb1.jpg)
+![Shepard's Pie](http://i.imgur.com/g3B2iAh.jpg)
