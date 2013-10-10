@@ -15,3 +15,6 @@ http://chefmichaelsmith.com/recipe/cinnamon-applesauce
 * Cover with a tight-fitting lid. In a few minutes the water will begin to steam, and the heat will encourage the apples to soften and release their own moisture.
 * Keep an eye on the pot and stir frequently so they don’t stick to the bottom. Cook until all the apples are softened and the mixture simmers, about 20 minutes in total.
 * Blend with an immersion blender.
+
+
+![Apple Sauce](http://i.imgur.com/LiMFGaY.jpg)
