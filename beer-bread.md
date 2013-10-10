@@ -17,3 +17,7 @@ http://www.food.com/recipe/beer-bread-73440
 * Pour melted butter over the mixture
 * Bake 1 hour or until knife removes clean
 * Remove from pan and cool on a cooling rack for at least 15 minutes
+
+
+
+![Beer Bread](http://i.imgur.com/MTJDSgn.jpg)
