@@ -16,4 +16,4 @@ http://allrecipes.com/recipe/waffles-i/
 * Beat eggs in large bowl with hand beater until fluffy. Beat in flour, milk, vegetable oil, sugar, baking powder, salt and vanilla, just until smooth.
 * Pour mix onto hot waffle iron. Cook until golden brown (3 minutes). Serve hot.
 
-![Waffles](http://i.imgur.com/RbOUHFh.jpg?1)
+![Waffles](http://i.imgur.com/RbOUHFh.jpg)
