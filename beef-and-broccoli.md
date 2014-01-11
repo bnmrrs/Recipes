@@ -1,28 +1,29 @@
 # Beef and Broccoli
 http://rainydaygal.com/2011/02/03/beef-with-broccoli/
 
-
+## Ingredients - marinade
 * 1/2 tsp baking soda
-1 tsp sugar
-1 tbsp cornstarch
-1 tbsp low-sodium soy sauce
-1 tbsp water
-2 tbsp vegetable oil
-1 1/2 lbs flank steak, sliced into thin strips
+* 1 tsp sugar
+* 1 tbsp cornstarch
+* 1 tbsp low-sodium soy sauce
+* 1 tbsp water
+* 2 tbsp vegetable oil
+* 1 1/2 lbs flank steak, sliced into thin strips
 
 ## Ingredients - sauce
-* 1/4 cup packed light-brown sugar
-* 1/2 teaspoon salt
-* 1/2 cup plus 2 tablespoons granulated sugar
-* 8 tablespoons (1 stick) unsalted butter, cold, cut into small cubes
-* 1 cup old-fashioned rolled oats (not quick-cooking)
-* 3 pounds apples, such as Empire, Gala, or Braeburn, peeled, cored, and cut into 1/2-inch chunks
-* 2 tablespoons fresh lemon juice
-* 1/2 teaspoon ground cinnamon
+* 1/2 c low-sodium soy sauce (Do NOT use regular. The final product will be way too salty)
+* 2 tbsp brown sugar
+* 4 cloves garlic, minced
+* 2 tbsp flour
+* 1 tbsp sherry
+* 3 tbsp vegetable oil
+* 2 heads broccoli, crowns only
 
 # Directions
-* Preheat oven to 375 degrees. In a large bowl, mix together flour, brown sugar, salt, and 2 tablespoons granulated sugar. Cut butter into flour, using a pastry blender or two knives, until mixture is the texture of coarse meal. Add oats, and use your hands to toss and squeeze mixture until large, moist clumps form. Transfer to freezer to chill while you prepare apples.
-* In another large bowl, toss apples with lemon juice, cinnamon, and remaining 1/2 cup granulated sugar. Transfer to a shallow 2-quart baking dish, and sprinkle with topping mixture. Place baking dish on a rimmed baking sheet, and bake until golden and bubbling, 55 to 65 minutes. Let cool 10 minutes before serving.
+* Whisk together the baking soda, sugar, cornstarch, soy sauce, water, and vegetable oil in a large bowl. Toss the steak with the marinade to coat. Cover and refrigerate at least 1 hour, then proceed below
+* In a small bowl, stir together the soy sauce, brown sugar, garlic, flour and sherry until smooth. Set aside.
+* In a large wok or saute pan, heat 2 tablespoons of the vegetable oil over high heat until shimmering. Add broccoli and saute 3 minutes, stirring often. Transfer broccoli to a plate
+* Reduce heat to medium-high. Carefully add the remaining tablespoon of oil to the hot pan. Add the marinated meat and half of the sauce mixture and saute for 3-4 minutes, stirring often, until the meat is cooked through and no longer pink. Stir in the broccoli and remaining sauce. Saute 1 minute more. Serve
 
 
-![Apple Crisp](http://i.imgur.com/vWCBd5j.jpg)
+![Beef and Broccoli](http://distilleryimage4.ak.instagram.com/41755d3a7a6111e3bf01128d86d26cdc_8.jpg)
