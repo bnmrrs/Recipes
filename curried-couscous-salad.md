@@ -1,5 +1,5 @@
-# Apple Crisp
-http://www.marthastewart.com/316288/apple-crisp
+# Curried Couscous Salad
+http://www.daringgourmet.com/2014/01/09/curried-couscous-salad/
 
 ## Ingredients
 * 2 cups uncooked couscous (you can also use whole wheat couscous)
